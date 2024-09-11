@@ -4,6 +4,9 @@ public class Githomework {
 
 	public static void main(String[] args) {
 		System.out.println("BATCH 12: Class Lecture");
+		int age = 11;
+		String name = "Jhon";
+		// This is coming from github
 	}
 
 	public static void add(int a, int b) {
