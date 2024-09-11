@@ -25,10 +25,14 @@ public class Githomework {
 
 	public static void div(int a, int b) {
 		System.out.println(a / b);
+		System.out.println("is equal to 8");
+		//test div
 	}
 
 	public static void mult(int a, int b) {
 		System.out.println(a * b);
+		System.out.println("equal 89");
+		// Test mult
 	}
 	
 
