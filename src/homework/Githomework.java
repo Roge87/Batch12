@@ -18,8 +18,9 @@ public class Githomework {
 		System.out.println(a / b);
 	}
 
-	
-	
+	public static void mult(int a, int b) {
+		System.out.println(a * b);
+	}
 	
 
 }
