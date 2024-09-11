@@ -11,10 +11,16 @@ public class Githomework {
 
 	public static void add(int a, int b) {
 		System.out.println(a + b);
+		int cant = 34;
+		System.out.println(cant);
+		//Test add
 	}
 
 	public static void rest(int a, int b) {
 		System.out.println(a - b);
+		int rest = 45;
+		System.out.println(rest);
+		//Test rest
 	}
 
 	public static void div(int a, int b) {
