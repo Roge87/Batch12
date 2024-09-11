@@ -11,4 +11,7 @@ public class Githomework {
 	Git is easy
 	API is not fun
 */
+	String firstName = "Jhon";
+	String lastName = "Cena";
+	String city = "Reston";
 }
